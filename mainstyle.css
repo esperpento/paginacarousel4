@@ -1,0 +1,41 @@
+@charset "utf-8";
+#texto p {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#texto h3 {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#texto li {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#texto #T1 {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#texto ol {
+    margin-left: 30px;
+    margin-right: 25px;
+}
+#texto #T2 {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#texto #T3 {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#texto #T4 {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#texto #T5 {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#texto h1 {
+    margin-left: 25px;
+    margin-right: 25px;
+}
